@@ -1,8 +1,8 @@
 # KaliRPIVNCSetup
 ## Summary
-This script will auto setup vncserver in Kali Linux Raspberry Pi 3 and Raspberry Pi Zero W for VNC session
+This script will auto setup vncserver, VNC server will auto start on boot in Kali Linux Raspberry Pi 3 and Raspberry Pi Zero W for VNC session
 ## Features 
-Auto configured VNC server for remote session for RPI Kali Linux, you can easily change resolution, depth, VNC server password using this script 
+Auto configured VNC server for remote session for RPI Kali Linux, auto start VNC server on boot you can easily change resolution, depth, VNC server password using this script 
 ## How to setup?
 First of all tightvncserver must be installed, it already preinstall in Kali Linux ARM.
 #### <code>apt-get install tightvncserver</code>
