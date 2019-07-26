@@ -1,4 +1,4 @@
-/#!/bin/sh
+#!/bin/sh
 # KaliRPIVNCSetup
 # This script will auto setup vncserver in Kali Linux Raspberry Pi 3 for VNC session
 # Author - Anil Parashar
